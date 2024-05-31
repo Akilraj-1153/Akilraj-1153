@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akilraj-1153&label=Profile%20views&color=0e75b6&style=flat" alt="akilraj-1153" />
+ [![](https://visitcount.itsvg.in/api?id=Akilraj-1153&icon=5&color=12)](https://visitcount.itsvg.in)
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -47,6 +47,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akilraj-1153&icon=5&color=12)](https://visitcount.itsvg.in)
 
 
