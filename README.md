@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Akilraj N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akilraj-1153&label=Profile%20views&color=0e75b6&style=flat" alt="akilraj-1153" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akilraj-1153&theme=onedark" alt="akilraj-1153" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akilraj-1153&theme=onedark" alt="akilraj-1153" />
+  </a>
 </p>
-🔭 I’m currently working on Personal Health And Habit Tracking-Android
-🌱 I’m currently learning React Native
-👨‍💻 All of my projects are available at My Portfolio
-📫 How to reach me akilrajn1153@gmail.com
+
+- 🔭 I’m currently working on **Personal Health And Habit Tracking-Android**
+- 🌱 I’m currently learning **React Native**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akilraj-1153.github.io/Akilraj_N-Portfolio/)
+- 📫 How to reach me **akilrajn1153@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/akilraj-n" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akilraj-n" height="30" width="40" />
   </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -52,12 +59,15 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akilraj-1153&show_icons=true&locale=en&layout=compact" alt="akilraj-1153" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akilraj-1153&show_icons=true&locale=en" alt="akilraj-1153" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akilraj-1153&" alt="akilraj-1153" />
 </div>
