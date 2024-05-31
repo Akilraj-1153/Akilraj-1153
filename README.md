@@ -5,6 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=akilraj-1153&label=Profile%20views&color=0e75b6&style=flat" alt="akilraj-1153" />
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on **Personal Health And Habit Tracking-Android**
+- 🌱 I’m currently learning **React Native**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akilraj-1153.github.io/Akilraj_N-Portfolio/)
+- 📫 How to reach me **akilrajn1153@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/akilraj-n" target="_blank">
@@ -42,9 +49,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Akilraj-1153&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 🔭 I’m currently working on **Personal Health And Habit Tracking-Android**
-- 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://akilraj-1153.github.io/Akilraj_N-Portfolio/)
-- 📫 How to reach me **akilrajn1153@gmail.com**
