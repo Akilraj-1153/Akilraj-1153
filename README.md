@@ -8,10 +8,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Personal Health And Habit Tracking-Android**
+- 🔭 I’m currently working on **Personal Health and Habit Tracking App (Android)**
 - 🌱 I’m currently learning **React Native**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://akilraj-1153.github.io/Akilraj_N-Portfolio/)
-- 📫 How to reach me **akilrajn1153@gmail.com**
+- 📫 How to reach me: **[akilrajn1153@gmail.com](mailto:akilrajn1153@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
