@@ -1,5 +1,4 @@
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/Akilraj-1153/Akilraj_N-Portfolio/src/Assets/Image/ProfileImg.jpg" height="450" style="border-radius:10px" />
   
   <h1 style="margin-top: 10px;text-align:center">I am Akilraj N, a web developer passionate about working on projects and freelancing.</h1>
 
